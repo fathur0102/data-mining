@@ -32,7 +32,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.9.2
 mdurl==0.1.2
-mysqlclient==2.2.4
+pymysql==1.0.3  # Ganti mysqlclient dengan pymysql
 narwhals==1.14.1
 numpy==2.1.3
 packaging==24.2
