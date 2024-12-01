@@ -116,7 +116,7 @@ if option == "📜 Deskripsi Aplikasi":
     st.title("📜 Deskripsi Aplikasi")
     st.write("""
     ### Selamat Datang di Aplikasi Analisis Data & Machine Learning
-    Aplikasi ini dirancang untuk membantu pengguna dalam:
+    Aplikasi ini dirancang oleh Fathur Rohiman untuk membantu pengguna dalam:
     - 📂 **Data Preparation**: Membersihkan dan mempersiapkan dataset.
     - 📊 **Exploratory Data Analysis (EDA)**: Melakukan analisis data eksploratif.
     - 📈 **Modeling**: Melatih model machine learning menggunakan dataset.
